@@ -1,0 +1,7 @@
+.result {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 20px 40px;
+  gap: 10px;
+}
