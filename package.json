@@ -2,7 +2,7 @@
   "name": "nameit-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://mgokulraj/github.io/React-nameit-app/",
+  "homepage": "https://mgokulraj/github.io/React-nameit-app/",
   "dependencies": {
     "@rstacruz/startup-name-generator": "0.3.0",
     "@testing-library/jest-dom": "^5.16.5",
