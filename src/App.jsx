@@ -18,7 +18,7 @@ class App extends Component {
   handleChangeEvent = (e) => {
     this.setState({
       animeExpanded: !e,
-      suggestedNames: name(e),
+      suggestedNames: e ? name(e) : [],
     });
   };
 
