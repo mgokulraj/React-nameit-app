@@ -6,7 +6,7 @@ const nameUrl =
 
 const NameCard = ({ name }) => {
   return (
-    <a className="card-link" href={`${nameUrl}${name}`}>
+    <a className="card-link" href={`${nameUrl}${name}`} target="_blank">
       <div className="result-name-card">
         <p className="result-name">{name}</p>
       </div>
